@@ -140,7 +140,7 @@ list2.add(1)
 list2.add(13)
 list2.add(50)
 print(list2.findMax())
-'''list1=LinkedList()
+list1=LinkedList()
 #Add all the required element(s)
 list1.delete("Snickers")
 
@@ -167,5 +167,5 @@ list1.delete("Snickers")
 #list1.insert("Dark chocolate","Marbles")
 #list1.insert("Dark chocolate","Gems")
 list1.insert_atPos("Dark chocolate",4)
-list1.display()'''
+list1.display()
 
